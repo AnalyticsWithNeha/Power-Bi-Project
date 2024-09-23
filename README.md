@@ -42,6 +42,8 @@ The Online Store Dashboard is designed to give a quick visual overview of the fo
    ```bash
    git clone https://github.com/yourusername/online-store-dashboard.git
    cd online-store-dashboard
+2. Open the Power BI dashboard file (Online_Store_Dashboard.pbix) using Power BI Desktop.
+   
 ## Contributing
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
